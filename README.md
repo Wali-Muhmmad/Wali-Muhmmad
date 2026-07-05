@@ -189,27 +189,48 @@ Currently deepening my expertise in **LLMs, RAG architecture, and multi-agent sy
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h2>📊 &nbsp;GitHub Stats</h2>
+  <h2>📊 &nbsp;GitHub Stats</h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wali-Muhmmad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&border_radius=12" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wali-Muhmmad&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12&langs_count=8" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wali-Muhmmad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&border_radius=12" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wali-Muhmmad&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12&langs_count=8" height="180" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wali-Muhmmad&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=12" width="97%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wali-Muhmmad&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=12" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=2&width=100%" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Wali-Muhmmad&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
 </div>
 
 <br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wali-Muhmmad&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="97%" />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=2&width=100%" width="100%" />
+</div>
+
+<br> 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   FEATURED PROJECTS                           -->
