@@ -417,7 +417,7 @@ Currently deepening my expertise in **LLMs, RAG architecture, and multi-agent sy
 
 <br>
 
-> **Setup the snake:** Add a GitHub Action to your profile repo using [Platane/snk](https://github.com/Platane/snk). The workflow generates the SVG on a schedule and commits it to the `output` branch.
+
 
 <br>
 
