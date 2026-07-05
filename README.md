@@ -10,7 +10,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+intelligent+systems+that+matter.;AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Full+Stack+%7C+Flutter+%7C+WordPress;n8n+Automation+%7C+Workflow+Engineering;Punjab%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+intelligent+systems+that+matter.;AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Full+Stack+%7C+Flutter+%7C+WordPress;AI+Automation+%7C+Workflow+Engineering;Punjab%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 <br>
 
@@ -114,7 +114,8 @@ Currently deepening my expertise in **LLMs, RAG architecture, and multi-agent sy
 <br>
 
 **Backend & APIs**
-
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
@@ -130,7 +131,9 @@ Currently deepening my expertise in **LLMs, RAG architecture, and multi-agent sy
 **Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FC08D?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <br>
@@ -445,7 +448,9 @@ Currently deepening my expertise in **LLMs, RAG architecture, and multi-agent sy
 <a href="https://www.linkedin.com/in/wali-muhammad-b60195361/">
   <img src="https://img.shields.io/badge/LinkedIn-Wali%20Muhammad-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<a href="mailto:walim55499@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Wali%20Muhammad-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 <br>
